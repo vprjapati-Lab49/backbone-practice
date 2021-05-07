@@ -16,7 +16,7 @@
     "handlebars": "^4.5.3",
     "handlebars-loader": "^1.7.1",
     "jquery": "^3.4.1",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
